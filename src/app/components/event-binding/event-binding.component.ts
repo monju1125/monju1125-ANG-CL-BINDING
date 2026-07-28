@@ -25,7 +25,7 @@ export class EventBindingComponent implements OnInit {
    */
 
 processClickButton2(){
-  this.button2ClickedMessage ="button 2 clicked";
+  this.button2ClickedMessage ="button 2 clicked!";
 }
 
   constructor() { }
